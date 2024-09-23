@@ -33,6 +33,6 @@ serem tocadas.
 
 ## Execução do App:
 
-https://github.com/user-attachments/assets/81a480cc-7792-4afc-afd9-154b06254ea6
+https://github.com/user-attachments/assets/1dd22dee-ecbf-4f31-a118-61937eb5087c
 
 
